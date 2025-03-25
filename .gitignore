@@ -1,0 +1,9 @@
+# vue
+.env
+data/
+.vscode/
+dist/
+node_modules/
+public/
+.env.development
+.env.production
