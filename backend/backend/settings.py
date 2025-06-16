@@ -170,7 +170,7 @@ LOGGING = {
             "level": "DEBUG",
             "class": "logging.FileHandler",
             # "filename": "/home/lim/Desktop/TT_code/TT_web/backend/data/log/oa.log",
-            "filename": "TT_web/backend/data/log/oa.log",
+            "filename": "/root/TT_web/backend/data/log/oa.log",
             "formatter": "verbose",
         },
     },
